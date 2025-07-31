@@ -1,0 +1,12 @@
+.center_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  border-style: dotted;
+  background-color:crimson;
+  text-align: center;
+}
